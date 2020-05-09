@@ -1,0 +1,6 @@
+*.pyc
+*.json
+*.egg-info/
+*.p
+*.idea
+saved_results/*/

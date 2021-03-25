@@ -19,7 +19,7 @@ setup(
                       "tensorboardX==2.0",
                       "torch==1.4.0",
                       "future==0.18.2",
-                      "PyYAML==5.3.1",
+                      "PyYAML==5.4",
                       ],
     zip_safe=False
 )

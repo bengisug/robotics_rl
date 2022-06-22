@@ -14,7 +14,7 @@ setup(
     install_requires=["gym==0.10.5",
                       "pybullet==2.6.6",
                       "matplotlib==3.2.1",
-                      "numpy==1.18.1",
+                      "numpy==1.22.0",
                       "tensorboard==1.15.0",
                       "tensorboardX==2.0",
                       "torch==1.4.0",
